@@ -1,0 +1,1 @@
+sudo snort -A console -q -l ./jeff_log  -i ens33 -c ./example.rules host 47.89.51.212

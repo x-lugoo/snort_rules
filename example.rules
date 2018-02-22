@@ -1,0 +1,2 @@
+alert tcp any any -> 47.89.51.212/32 8899 (content:"xiehuan";sid:1000000900;msg: "jeff is testing alert";)
+
